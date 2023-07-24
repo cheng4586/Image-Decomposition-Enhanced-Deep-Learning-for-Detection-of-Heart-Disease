@@ -1,5 +1,5 @@
 # Image-Decomposition-Enhanced-Deep-Learning-for-Detection-of-Heart-Disease
-Python code for the paper: Shu, Y., Smith, T. G., Arunachalam, S. P., Tolkacheva, E. G., & Cheng, C. (2023). Image-Decomposition-Enhanced Deep Learning for Detection of Rotor Cores in Cardiac Fibrillation. IEEE Transactions on Biomedical Engineering.
+Python code for the paper: Shu, Y., Smith, T. G., Arunachalam, S. P., Tolkacheva, E. G., & Cheng, C. (2023). Image-Decomposition-Enhanced Deep Learning for Detection of Rotor Cores in Cardiac Fibrillation. IEEE Transactions on Biomedical Engineering. DOI: 10.1109/TBME.2023.3292383
 
 Empirical Mode Decomposition algorithm (EEMD) to decompose the image data and characterize the underlying dynamics, and the most representative component is then fed into a You-Only-Look-Once (YOLO) image-recognition architecture for heart disease detection.
 
